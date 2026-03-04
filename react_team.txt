@@ -1,5 +1,9 @@
 team: React
 
+<<<<<<< HEAD
 manager: bob
+=======
+manager: June
+>>>>>>> 4f9a16c (Edit react_team)
 
 members: Ji
