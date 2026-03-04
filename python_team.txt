@@ -1,5 +1,5 @@
 team: Python
 
-manager: Chae
+manager: Melody
 
 members: Anna
