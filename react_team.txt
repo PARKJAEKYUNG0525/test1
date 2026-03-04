@@ -1,5 +1,5 @@
 team: React
 
-manager: Min
+manager: bob
 
 members: Ji
