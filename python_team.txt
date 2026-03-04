@@ -1,5 +1,5 @@
 team: Python
 
-manager: Jack
+manager: Yang
 
 members: Anna
