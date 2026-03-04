@@ -3,3 +3,5 @@ team: Python
 manager: Chae
 
 members: Anna
+
+friend : Pochaco
